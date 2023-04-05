@@ -1,0 +1,5 @@
+# exemplo de git ignore para python
+*.pyc
+__pycache__
+env
+.pytest_cache
